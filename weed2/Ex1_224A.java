@@ -11,6 +11,6 @@ public class Ex1_224A {
         double c = s3 * s2 / 2 * s1;
         double a = s3 / c;
         double b = s2 / c;
-        System.out.println(a + " " + b + " " + c);
+        System.out.println(a + b + c);
     }
 }
